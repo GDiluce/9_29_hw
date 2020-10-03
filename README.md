@@ -1,2 +1,3 @@
-# 9_29_hw
-not sure if my sounds are working properly
+# sound game part 1 : moving parts and looping sounds
+
+finished sketch: https://socalledsound.github.io/sound-game-1-starter/
